@@ -1,0 +1,9 @@
+@echo off
+
+set QT_SCREEN_SCALE_FACTORS=
+set QT_AUTO_SCREEN_SCALE_FACTOR=
+set QT_ENABLE_HIGHDPI_SCALING=
+set QT_SCALE_FACTOR=
+set QT_DEVICE_PIXEL_RATIO=
+
+start "" "C:\Program Files\MATLAB\R2025a\bin\matlab.exe"
